@@ -1,0 +1,16 @@
+# ESP32 Web Server — Arduino Library Requirements
+#
+# Install these via Arduino IDE: Tools → Manage Libraries
+# The ESP32 board package (by Espressif Systems) must also be installed.
+# Board manager URL: https://raw.githubusercontent.com/espressif/arduino-esp32/gh-pages/package_esp32_index.json
+#
+# Format: Library Name @ minimum version
+
+Adafruit SSD1306 @ 2.5.7
+Adafruit GFX Library @ 1.11.9
+Adafruit BusIO @ 1.14.1
+
+# The following are bundled with the ESP32 board package — no separate install required:
+# - WiFi.h
+# - WebServer.h
+# - Wire.h
