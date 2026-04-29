@@ -32,7 +32,7 @@ const char index_html[] PROGMEM = R"rawliteral(
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>ESP32 Documentation | The Ultimate Guide</title>
+    <title>ESP32 Documentation</title>
     <meta name="description" content="Comprehensive documentation and quick start guide for the ESP32 microcontroller.">
     
     <!-- Google Fonts for Typography -->
@@ -167,7 +167,7 @@ const char index_html[] PROGMEM = R"rawliteral(
             border: none;
             color: #ccc;
             padding: 4px 8px;
-            border-radius: 4px;
+            border-radius: 5px;
             font-size: 0.75rem;
             cursor: pointer;
             font-family: sans-serif;
