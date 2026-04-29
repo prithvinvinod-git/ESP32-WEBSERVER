@@ -11,7 +11,7 @@
 
 Adafruit_SSD1306 display(SCREEN_WIDTH, SCREEN_HEIGHT, &Wire, OLED_RESET);
 
-// Variables to store display status
+
 String displayIP = "Connecting...";
 String displayStatus = "Init...";
 String displayLED = "OFF";
