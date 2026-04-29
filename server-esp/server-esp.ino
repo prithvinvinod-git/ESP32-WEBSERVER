@@ -45,7 +45,7 @@ const char index_html[] PROGMEM = R"rawliteral(
         :root {
             /* Colors */
             --primary: #007AFF;
-            --primary-dark: #0056b3;
+            --primary-dark: #0061c8;
             --secondary: #6c757d;
             --accent-bg: #e7f1ff;
             --bg-body: #f8f9fa;
@@ -120,7 +120,7 @@ const char index_html[] PROGMEM = R"rawliteral(
         .btn {
             display: inline-block;
             padding: 10px 20px;
-            border-radius: 6px;
+            border-radius: 7px;
             font-weight: 500;
             cursor: pointer;
             transition: all 0.2s ease;
